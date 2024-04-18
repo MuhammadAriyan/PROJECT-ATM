@@ -1,0 +1,14 @@
+{
+  "name": "ary_atm",
+  "version": "1.1.0",
+  "bin": "./ATM.js",
+  "type": "module",
+  "description": "paisa hi paisa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "arybhai",
+  "license": "ISC"
+}
